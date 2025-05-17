@@ -1,9 +1,3 @@
-@font-face {
-  src: url("fonts/test.ttf");
-  font-family: "DM Mono";
-}
-
 body {
   background: blue !important;
-  font-family: "DM Mono" !important;
 }
