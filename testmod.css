@@ -1,3 +1,6 @@
 body {
   background: blue !important;
 }
+
+@import "test.css";
+@import "modules/more.css";
