@@ -4,3 +4,5 @@ body {
 
 @import "test.css";
 @import "modules/more.css";
+@import "mods/list.css";
+@import "mods/test.css";
