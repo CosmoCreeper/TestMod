@@ -2,5 +2,6 @@
   "id": "testmod",
   "name": "Test Mod",
   "description": "Real Description",
-  "style": "https://raw.githubusercontent.com/CosmoCreeper/TestMod/refs/heads/main/testmod.css"
+  "style": "https://raw.githubusercontent.com/CosmoCreeper/TestMod/refs/heads/main/testmod.css",
+  "modules": "ferrocyante/Arc-H"
 }
